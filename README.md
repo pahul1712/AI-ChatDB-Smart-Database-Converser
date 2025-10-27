@@ -80,6 +80,7 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-Pahuldeep Singh Dhingra
-Graduate Teaching Assistant · MS Data Science & Analytics · Florida Atlantic University
+- Pahuldeep Singh Dhingra
+- Graduate Teaching Assistant • MS Data Science & Analytics •  Florida Atlantic University
+- email: [✉️ Email](pahuldeepsingh531@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/pahuldeepsing/)
 
